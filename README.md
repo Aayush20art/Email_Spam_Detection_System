@@ -48,7 +48,7 @@ SpamShield/
 ├── MultinomialNB.pkl      # Trained Naive Bayes model
 ├── vectorizer.pkl         # Fitted TF-IDF vectorizer
 ├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+└── README.md              # project dodumentation
 ```
 
 ---
