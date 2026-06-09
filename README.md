@@ -1,4 +1,4 @@
-# 🛡️ SpamShield — Email Spam Detector
+# 🛡️ SpamShield — Email Spam Detection System
 
 > **AI powered Spam Email Detection web app built with Streamlit & Scikit-learn**
 ---
