@@ -3,7 +3,7 @@
 > **AI powered Spam Email Detection web app built with Streamlit & Scikit-learn**
 ---
 
-## 🚀 Live Demo
+## 🚀 Live
 
 🌐 **[https://spamemaildetectionsystem-5ekcfznfrlba3yf3mcfcsf.streamlit.app/](https://spamemaildetectionsystem-5ekcfznfrlba3yf3mcfcsf.streamlit.app/)**
 
